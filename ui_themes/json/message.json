@@ -1,0 +1,74 @@
+{
+  "message": {
+    "font": {
+      "name": "msyh",
+      "size": "22",
+      "bold": "0",
+      "italic": "0",
+      "regular_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyh.ttc"
+      },
+      "bold_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "bold_italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      }
+    }
+  },
+  "window.#title_bar": {
+    "font": {
+      "name": "msyh",
+      "size": "12",
+      "bold": "0",
+      "italic": "0",
+      "regular_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyh.ttc"
+      },
+      "bold_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "bold_italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      }
+    }
+  },
+  "button": {
+    "font": {
+      "name": "msyh",
+      "size": "16",
+      "bold": "0",
+      "italic": "0",
+      "regular_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyh.ttc"
+      },
+      "bold_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "bold_italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      }
+    }
+  }
+}

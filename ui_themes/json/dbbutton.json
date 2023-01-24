@@ -1,0 +1,122 @@
+{
+  "db": {
+    "images": {
+      "normal_image": {
+        "package": "ui_themes.images",
+        "resource": "dbchange.png",
+        "sub_surface_rect": "0,0,213,63"
+      },
+      "hovered_image": {
+        "package": "ui_themes.images",
+        "resource": "dbchange.png",
+        "sub_surface_rect": "213,0,213,63"
+      },
+      "selected_image": {
+        "package": "ui_themes.images",
+        "resource": "dbchange.png",
+        "sub_surface_rect": "0,63,213,63"
+      },
+      "disabled_image": {
+        "package": "ui_themes.images",
+        "resource": "dbchange.png",
+        "sub_surface_rect": "0,63,213,63"
+      }
+    }
+  },
+  "fb": {
+    "images": {
+      "normal_image": {
+        "package": "ui_themes.images",
+        "resource": "fbchange.png",
+        "sub_surface_rect": "0,0,213,63"
+      },
+      "hovered_image": {
+        "package": "ui_themes.images",
+        "resource": "fbchange.png",
+        "sub_surface_rect": "213,0,213,63"
+      },
+      "selected_image": {
+        "package": "ui_themes.images",
+        "resource": "fbchange.png",
+        "sub_surface_rect": "0,63,213,63"
+      },
+      "disabled_image": {
+        "package": "ui_themes.images",
+        "resource": "fbchange.png",
+        "sub_surface_rect": "0,63,213,63"
+      }
+    }
+  },
+  "double": {
+    "images": {
+      "normal_image": {
+        "package": "ui_themes.images",
+        "resource": "doublechange.png",
+        "sub_surface_rect": "0,0,213,63"
+      },
+      "hovered_image": {
+        "package": "ui_themes.images",
+        "resource": "doublechange.png",
+        "sub_surface_rect": "213,0,213,63"
+      },
+      "selected_image": {
+        "package": "ui_themes.images",
+        "resource": "doublechange.png",
+        "sub_surface_rect": "0,63,213,63"
+      },
+      "disabled_image": {
+        "package": "ui_themes.images",
+        "resource": "doublechange.png",
+        "sub_surface_rect": "0,63,213,63"
+      }
+    }
+  },
+  "globe": {
+    "images": {
+      "normal_image": {
+        "package": "ui_themes.images",
+        "resource": "globechange.png",
+        "sub_surface_rect": "0,0,213,63"
+      },
+      "hovered_image": {
+        "package": "ui_themes.images",
+        "resource": "globechange.png",
+        "sub_surface_rect": "213,0,213,63"
+      },
+      "selected_image": {
+        "package": "ui_themes.images",
+        "resource": "globechange.png",
+        "sub_surface_rect": "0,63,213,63"
+      },
+      "disabled_image": {
+        "package": "ui_themes.images",
+        "resource": "globechange.png",
+        "sub_surface_rect": "0,63,213,63"
+      }
+    }
+  },
+  "enter": {
+    "images": {
+      "normal_image": {
+        "package": "ui_themes.images",
+        "resource": "enter.png",
+        "sub_surface_rect": "0,0,101,67"
+      },
+      "hovered_image": {
+        "package": "ui_themes.images",
+        "resource": "enter.png",
+        "sub_surface_rect": "101,0,101,67"
+      },
+      "selected_image": {
+        "package": "ui_themes.images",
+        "resource": "enter.png",
+        "sub_surface_rect": "101,0,101,67"
+      },
+      "disabled_image": {
+        "package": "ui_themes.images",
+        "resource": "enter.png",
+        "sub_surface_rect": "101,0,101,67"
+      }
+    }
+  }
+}

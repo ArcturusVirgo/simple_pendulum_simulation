@@ -1,0 +1,149 @@
+{
+  "next": {
+    "images": {
+      "normal_image": {
+        "package": "ui_themes.images",
+        "resource": "home_page.png",
+        "sub_surface_rect": "0,0,101, 67"
+      },
+      "hovered_image": {
+        "package": "ui_themes.images",
+        "resource": "home_page.png",
+        "sub_surface_rect": "101,0,101,67"
+      },
+      "selected_image": {
+        "package": "ui_themes.images",
+        "resource": "home_page.png",
+        "sub_surface_rect": "101, 0, 101, 67"
+      },
+      "disabled_image": {
+        "package": "ui_themes.images",
+        "resource": "home_page.png",
+        "sub_surface_rect": "101,0,101,67"
+      }
+    }
+  },
+  "start": {
+    "colours": {
+      "normal_bg": "#25292e",
+      "hovered_bg": "#35393e",
+      "disabled_bg": "#25292e",
+      "selected_bg": "#25292e",
+      "active_bg": "#193784",
+      "normal_text": "#c5cbd8",
+      "hovered_text": "#FFFFFF",
+      "selected_text": "#FFFFFF",
+      "disabled_text": "#6d736f",
+      "active_text": "#6d736f",
+      "normal_border": "#AAAAAA",
+      "hovered_border": "#B0B0B0",
+      "disabled_border": "#808080",
+      "selected_border": "#8080B0",
+      "active_border": "#8080B0"
+    },
+    "font": {
+      "name": "msyh",
+      "size": "16",
+      "bold": "0",
+      "italic": "1",
+      "regular_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyh.ttc"
+      },
+      "bold_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "bold_italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      }
+    }
+  },
+  "pause": {
+    "colours": {
+      "normal_bg": "#25292e",
+      "hovered_bg": "#35393e",
+      "disabled_bg": "#25292e",
+      "selected_bg": "#25292e",
+      "active_bg": "#193784",
+      "normal_text": "#c5cbd8",
+      "hovered_text": "#FFFFFF",
+      "selected_text": "#FFFFFF",
+      "disabled_text": "#6d736f",
+      "active_text": "#6d736f",
+      "normal_border": "#AAAAAA",
+      "hovered_border": "#B0B0B0",
+      "disabled_border": "#808080",
+      "selected_border": "#8080B0",
+      "active_border": "#8080B0"
+    },
+    "font": {
+      "name": "msyh",
+      "size": "16",
+      "bold": "0",
+      "italic": "1",
+      "regular_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyh.ttc"
+      },
+      "bold_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "bold_italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      }
+    }
+  },
+  "reset": {
+    "colours": {
+      "normal_bg": "#25292e",
+      "hovered_bg": "#35393e",
+      "disabled_bg": "#25292e",
+      "selected_bg": "#25292e",
+      "active_bg": "#193784",
+      "normal_text": "#c5cbd8",
+      "hovered_text": "#FFFFFF",
+      "selected_text": "#FFFFFF",
+      "disabled_text": "#6d736f",
+      "active_text": "#6d736f",
+      "normal_border": "#AAAAAA",
+      "hovered_border": "#B0B0B0",
+      "disabled_border": "#808080",
+      "selected_border": "#8080B0",
+      "active_border": "#8080B0"
+    },
+    "font": {
+      "name": "msyh",
+      "size": "16",
+      "bold": "0",
+      "italic": "1",
+      "regular_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyh.ttc"
+      },
+      "bold_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "bold_italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "numberOfCycles": {
+    "font": {
+      "name": "msyh",
+      "size": "23",
+      "bold": "0",
+      "italic": "1",
+      "regular_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyh.ttc"
+      },
+      "bold_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      },
+      "bold_italic_resource": {
+        "package": "ui_themes.fonts",
+        "resource": "msyhbd.ttc"
+      }
+    }
+  },
+  "next": {
+    "images": {
+      "normal_image": {
+        "package": "ui_themes.images",
+        "resource": "home_page.png",
+        "sub_surface_rect": "0,0,101, 67"
+      },
+      "hovered_image": {
+        "package": "ui_themes.images",
+        "resource": "home_page.png",
+        "sub_surface_rect": "101,0,101,67"
+      },
+      "selected_image": {
+        "package": "ui_themes.images",
+        "resource": "home_page.png",
+        "sub_surface_rect": "101, 0, 101, 67"
+      },
+      "disabled_image": {
+        "package": "ui_themes.images",
+        "resource": "home_page.png",
+        "sub_surface_rect": "101,0,101,67"
+      }
+    }
+  }
+}
